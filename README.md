@@ -1,17 +1,32 @@
 # 2xmansoor-gtp.github.io
 
-# Welcome to my GitHub Page
+# Welcome to My GitHub Page
 
-My name is Mansoor.
+My name is **Mansoor**.
 
-I am a Computer Science student at Boise State University.
-
-I am learning Git, GitHub, branching, merging, and version control in CS 155.
+I am a *Computer Science* student at Boise State University.
 
 ## About Me
 
-I am interested in computer science, cybersecurity, sports, music, and fitness.
+I am interested in:
 
-## Projects
+- Computer Science
+- Cybersecurity
+- Sports
+- Music
+- Fitness
 
-I will use this page to showcase projects and work I complete on GitHub.
+## What I Am Learning
+
+- [x] Git basics
+- [x] Branching and merging
+- [x] GitHub Pages
+- [x] Markdown
+- [ ] More advanced Git workflows
+
+## Useful Git Commands
+
+```bash
+git status
+git add.
+git commit -m "
